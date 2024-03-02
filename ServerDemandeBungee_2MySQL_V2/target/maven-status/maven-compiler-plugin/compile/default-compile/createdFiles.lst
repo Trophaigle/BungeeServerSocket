@@ -1,0 +1,12 @@
+fr\trophaigle\ordermand\enums\ServerTypes.class
+fr\trophaigle\ordermand\enums\ServerStates.class
+fr\trophaigle\ordermand\servers\FilesUtils.class
+fr\trophaigle\ordermand\DatabaseConnection.class
+fr\trophaigle\ordermand\Ordermand.class
+fr\trophaigle\ordermand\commands\OrdermandOrder.class
+fr\trophaigle\ordermand\servers\MinecraftServerS$1.class
+fr\trophaigle\ordermand\commands\OrdermandKill.class
+fr\trophaigle\ordermand\listeners\ProxyPingListener.class
+fr\trophaigle\ordermand\servers\ServersManager.class
+fr\trophaigle\ordermand\listeners\PlayerConnectionListener.class
+fr\trophaigle\ordermand\servers\MinecraftServerS.class
